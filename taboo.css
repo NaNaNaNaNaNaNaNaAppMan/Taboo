@@ -1,0 +1,11 @@
+#page #maincontent .dont {
+	color: #C33;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	text-align: center;
+}
+#page #maincontent #outputword {
+	text-align: center;
+	font-size: 36px;
+}
